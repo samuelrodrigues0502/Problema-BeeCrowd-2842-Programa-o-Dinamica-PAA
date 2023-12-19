@@ -15,22 +15,24 @@ sempre existe uma terceira string que contém como subsequência as suas outras 
 FORMATO DA ENTRADA:
 A primeira linha contém a string A (1 ≤ |A| ≤ 1000), e a segunda linha contém a string B (1 ≤ |B| ≤ 1000). Elas são formadas apenas por letras minúsculas do alfabeto.
 FORMATO DA SAÍDA
-Informe qual o tamanho da menor string que possui como subsequências as strings A e B."Exemplo 1:
+Informe qual o tamanho da menor string que possui como subsequências as strings A e B.
+# Exemplo 1:
 
-# Entrada:
+Entrada:
 casa
 casaco
 
-# Saída:
-6Exemplo 2:
+Saída:
+6
 
-# Entrada:
+# Exemplo 2:
+Entrada:
 bola
 bota
 
-# Saída:
+Saída:
 5
-####################
+
 
 ⇒ Requisitos Técnicos:
    * A implementação deve ser feita em uma linguagem de programação de sua escolha.
