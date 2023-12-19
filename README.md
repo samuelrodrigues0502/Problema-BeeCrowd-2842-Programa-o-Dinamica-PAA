@@ -18,7 +18,7 @@ FORMATO DA SAÍDA
 Informe qual o tamanho da menor string que possui como subsequências as strings A e B.
 # Exemplo 1:
 
-Entrada:
+Entrada:</br>
 casa
 casaco
 
@@ -26,11 +26,11 @@ Saída:</br>
 6
 
 # Exemplo 2:
-Entrada:
-bola
-bota
+Entrada:</br>
+bola</br>
+bota</br>
 
-Saída:
+Saída:</br>
 5
 
 
