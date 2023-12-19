@@ -22,7 +22,7 @@ Entrada:
 casa
 casaco
 
-Saída:
+Saída:</br>
 6
 
 # Exemplo 2:
